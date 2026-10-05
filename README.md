@@ -55,3 +55,7 @@ Pascal
 ## License
 
 Ce projet est sous la licence GNU GPL V3 - voir le fichier [LICENSE](https://github.com/OpenClassrooms-Student-Center/7688581-Expert-Git-GitHub/blob/main/LICENSE) pour plus de détails
+
+## Ajout du 05102026
+
+Penser à mettre VSCode en mode LF et UTF8 et pas UTF-16 sinon tous les commits ne passent pas 
