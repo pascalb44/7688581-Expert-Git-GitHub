@@ -11,20 +11,13 @@ Ces instructions permettent d'executer une copie du projet en local sur votre po
 Pour executer en local le projet Open Transport, vous devez au préalable installer :
 
 ```
-A définir
+Un serveur web comme Nginx
 
 ```
 
 ### Installation
 
 Voici les étapes à suivre pour avoir un environnement de développement et de test opérationnel :
-
-
-```
-- Etape 1 : ...  
-- Etape 2 : ...
-```
-
 
 
 ## Executer les tests
@@ -35,7 +28,7 @@ Voici les étapes à suivre pour avoir un environnement de développement et de 
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
